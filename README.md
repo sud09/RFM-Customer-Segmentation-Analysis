@@ -1,6 +1,15 @@
 
 # RFM Customer Sales Analysis 
 
+### Here is the Sales Dashboard Screenshot  with link made in Tableau:-
+
+Sales Dashboard 1 : - 
+https://public.tableau.com/views/RFM_Segmentation_Sales_Analysis_Dasboard1/SalesDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
+Sales Dashboard 2 : - 
+https://public.tableau.com/views/RFM_Segmentation_Sales_Analysis_Dasboard2/SalesDashboard2?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
+
 This project aims to analyze sales data from the customer sales_data_sample table to gain insights into product sales, customer behavior, and revenue trends.
 
 ## What is RFM ? 
