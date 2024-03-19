@@ -144,9 +144,3 @@ from sales_data_sample s
 order by 2 desc
 
 ```
-
-Here is the Sales Dashboard Screenshot made in Tableau:-
-
-![Sales_Dashboard_1](https://github.com/sud09/RFM-Customer-Segmentation-Analysis/assets/36404812/003cf2a5-ebc8-4400-8708-80b8e8d24105)
-
-![Sales_Dashboard_2](https://github.com/sud09/RFM-Customer-Segmentation-Analysis/assets/36404812/a4dfe91a-a734-4ca4-9037-2809afba929d)
