@@ -1,7 +1,7 @@
 
 # RFM Customer Sales Analysis 
 
-### Here is the Sales Dashboard Screenshot  with link made in Tableau:-
+### Here is the Sales Dashboard link made in Tableau:-
 
 Sales Dashboard 1 : - 
 https://public.tableau.com/views/RFM_Segmentation_Sales_Analysis_Dasboard1/SalesDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
