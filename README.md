@@ -5,8 +5,6 @@ This project aims to analyze sales data from the customer sales_data_sample tabl
 
 ## What is RFM ? 
 
-## RFM Analysis
-
 RFM (Recency, Frequency, Monetary) analysis is a method used to analyze and categorize customers based on their purchasing behavior. It involves the following key components:
 
 - **Recency (R)**: How recently a customer has made a purchase. It is calculated as the number of days since the customer's last purchase.
